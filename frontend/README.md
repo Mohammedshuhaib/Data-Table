@@ -1,6 +1,6 @@
 # DataTable
 
-Its a project with you can get the data by filtered
+Its a project with data tables and graph. in this you can get the data by filtered
 
 ## Installation
 
